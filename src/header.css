@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+header {
+  display: flex;
+  background-color: black;
+  color: white;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerLeft {
+  font-size: 40rem;
+  margin-right: 10rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.im {
+  font-size: 10rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.papack {
+  font-size: 20rem;
+  font-family: "Allura", cursive;
+}
